@@ -30,7 +30,7 @@ To `install` and `set up` VS code for C and C++ programing environment, click [h
 - Circular Queue
 - Priority Queue (in process)
 
-#### Linked List: It is a linear data structure where each element is a separate object, hence the elements aren't stored at contiguously.
+#### Linked List: It is a linear data structure where each element is a separate object, hence the elements aren't stored contiguously.
                   Each node of a list is made up of two items - the data and a reference (pointer) to the next node. The last node has a reference to null.
 - Linked List Operations
 - Circular Linked List
